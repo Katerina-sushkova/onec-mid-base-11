@@ -1216,6 +1216,7 @@
   <catalogs>Catalog.ДЗ_КонтактныеЛица</catalogs>
   <catalogs>Catalog.ДЗ_Должность</catalogs>
   <catalogs>Catalog.ДЗ_ДоставкаПрисоединенныеФайлы</catalogs>
+  <catalogs>Catalog.ДЗ_Сотрудники</catalogs>
   <documents>Document.ЗаказПокупателя</documents>
   <documents>Document.ОплатаОтПокупателя</documents>
   <documents>Document.ОплатаПоставщику</documents>
